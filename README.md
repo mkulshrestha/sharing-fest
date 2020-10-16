@@ -12,3 +12,5 @@ Project will include
 2. An android application.
 
 We will create a socket between the web app and the android client. This socket will stream data to each of the endpoints.
+
+Pawan Pandey
