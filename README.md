@@ -17,3 +17,12 @@ We will create a socket between the web app and the android client. This socket 
 Harshit Arora  
 Pawan Pandey  
 Mayank Kulshrestha
+
+Server Initial configuration-
+1. Install mongoDb
+2. Install nodejs
+3. In the project diectory run npm install for the first time
+
+To run the project evertime you need to type node app
+
+You'll also be requiring keys.js file which i'll sharing seperately
